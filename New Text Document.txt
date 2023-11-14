@@ -1,0 +1,24 @@
+Tela inicial
+	
+	primeiro ira fazer o cadastro
+		nome | salario mensal
+
+
+	- input (o usuario ira digitar o gasto que fez no momento)
+
+Janelas
+
+	-Janela indicando quanto a pessoa pode gastar
+
+botao
+	-tera um botao para finalizar os gastos diarios
+
+
+apos finalizar o gasto diario:
+
+	o lucro ou prejuizo ira reajustar a nova media de gastos diarios
+
+
+v2
+
+	a pessoa pode ter a opcao de escolher quanto a pessoa quer ter de lucro no final do mes
